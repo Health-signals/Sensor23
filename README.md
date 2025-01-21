@@ -39,7 +39,18 @@ This system reduces the need for constant manual monitoring by nurses, making it
    - By processing the stored data, we achieved accurate BPM readings and visualized graphs with well-defined peaks.
     
 4. **Use of websocket:**
-    -We are still debating whether the websocket is the perfect method to send real time data because we could get lags as we are visualising the graph
+    - We are still debating whether the websocket is the perfect method to send real time data because we could get lags as we are visualising the graph
+
+---
+
+## Future Goals
+
+- Acquire better sensors to improve real-time data acquisition and display.
+- Enhance buffering and filtering techniques for more reliable data processing.
+- Further refine our system for seamless real-time visualization.
+- Making more research about how to send real time data without lags
+- Creating an AI that defines scales for more visualisation and having a peak detection for different ecg signals
+- Adding functionalities that can support to view live data of morethan 3 patients
 
 ---
 
